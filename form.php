@@ -3,6 +3,7 @@
 <head>
     <!-- Load file CSS Bootstrap offline -->
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
  
