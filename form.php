@@ -9,6 +9,10 @@
  
 <div class="container p-3 my-3 border">
 <h1>Form Pendaftaran Mahasiswa</h1>
+<div style="width: 100%; text-align: right">
+    <a href="riwayat.php" class="btn btn-success" >Lihat Riwayat </a>
+</div>
+
 
     <form action="simpan-pendaftaran.php" class="was-validated" method="post">
         <div class="form-group">
