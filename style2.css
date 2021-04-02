@@ -1,0 +1,15 @@
+body{
+	background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kompas.com%2Ftren%2Fread%2F2020%2F05%2F17%2F080000565%2Fmengapa-banyak-orang-menggunakan-background-rak-buku-saat-telekonferensi-%3Fpage%3Dall&psig=AOvVaw2w8f8zkthS5i98t3Y-LPzD&ust=1617455119438000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiZt4fQ3-8CFQAAAAAdAAAAABAD");
+	background-size: 1850px 870px;
+
+  
+}
+
+h1{
+	color : lightskyblue;
+}
+
+div{
+	  background-color: lightblue;
+  	  opacity: 0.95;
+}
